@@ -1,0 +1,6 @@
+[submodule "projects/front"]
+	path = projects/front
+	url = https://github.com/Ir-ra/wine
+[submodule "projects/back"]
+	path = projects/back
+	url = https://github.com/pochtalon/WineAppBack
